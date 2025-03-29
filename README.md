@@ -28,7 +28,7 @@ Once the terminal is open, type the following command:
 COMMAND: git clone https://github.com/DeboAdeniran/Project-Tracker-Backend .
 (The . at the end ensures the repository is cloned directly into the opened folder.)
 
-Step 4: Navigate into the Project (If Needed)
+4: Navigate into the Project (If Needed)
 If you didn’t use the ., the project might be inside another folder. Navigate into it using:
 COMMAND: cd project-tracker-backend
 
